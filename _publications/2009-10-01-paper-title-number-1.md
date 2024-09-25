@@ -2,7 +2,7 @@
 title: "Selective Fluoride Removal from Groundwater Using CNT-CeO2 Electrodes in Capacitive Deionization (CDI)"
 collection: publications
 category: SCI
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: (https://www.sciencedirect.com/science/article/pii/S1385894724005825)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-12
 venue: 'Journal 1'
